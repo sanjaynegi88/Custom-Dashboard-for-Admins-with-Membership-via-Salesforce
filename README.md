@@ -5,6 +5,11 @@ A powerful WordPress membership management solution that provides custom admin d
 This plugin connects WordPress membership systems with Salesforce using REST APIs to automate member onboarding, account synchronization, subscriptions, permissions, and administrative workflows.
 
 ---
+use shortcode [user_dashboard]
+
+<img width="1531" height="1606" alt="image" src="https://github.com/user-attachments/assets/f056b803-9168-4c53-a348-fe808e228776" />
+
+
 
 # Features
 
